@@ -10,7 +10,7 @@ class CardList extends Component {
                     {
                         monsters.map((monster) => {
                         
-                        const { id, name, email } = monster;
+                        const { name, email, id } = monster;
 
                             
                             
